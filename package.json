@@ -1,0 +1,15 @@
+{
+  "name": "instagram-web-archive",
+  "version": "1.0.0",
+  "description": "basic proof-of-concept web archiving for CCA Instagram accounts",
+  "scripts": {
+    "server": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["instagram", "web archive", "archives"],
+  "author": "phette23 <phette23@gmail.com> (https://phette.net)",
+  "license": "ECL-2.0",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
